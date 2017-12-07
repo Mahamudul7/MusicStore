@@ -1,0 +1,19 @@
+#waterwheelCarousel
+ {display:block; 
+  width:960px; 
+  height:250px; 
+  margin:0 auto; 
+  padding:25px 0 0 0; 
+  background-color:green;}
+#waterwheelCarousel > img
+ {display:none;
+  cursor:pointer;}
+div.wrapper
+ {display:block; 
+  width:100%; 
+  margin:0; 
+  text-align:left;}
+.col3
+ {color:#999999; 
+  background-color:#151515; 
+  padding:20px 0;}
